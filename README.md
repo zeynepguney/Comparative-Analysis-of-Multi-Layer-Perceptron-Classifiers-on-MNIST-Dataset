@@ -5,11 +5,11 @@ This project aims to evaluate the performance of different Multi-Layer Perceptro
 The MNIST dataset is a widely used benchmark dataset in machine learning, containing 28x28 grayscale images of handwritten digits (0-9). In this project, three different MLP classifiers with varying numbers of hidden layers are used to classify these digits. The performance of each model is evaluated using various metrics.
 
 ## Requirements
-Python 3.x
-numpy
-pandas
-matplotlib
-scikit-learn
+* Python 3.x
+* numpy
+* pandas
+* matplotlib
+* scikit-learn
 
 ## You can install the required packages using pip:
 
